@@ -1,0 +1,29 @@
+HDL Survival Guide :
+
+https://www.nand2tetris.org/hdl-survival-guide
+
+Appendix of Nand2Tetris book :
+
+https://drive.google.com/file/d/1qzffR9le13QvR_w-JqY7RTsZU-b3eaFP/view
+
+Boolean Algebra : 
+
+https://www.eduhk.hk/has/phys/de/de-ba.htm
+
+http://www.ee.surrey.ac.uk/Projects/Labview/boolalgebra/
+
+https://www.electronics-tutorials.ws/boolean/bool_6.html
+
+Mark suggested sites : 
+
+http://marksmath.com/tecs/glitch/glitch1.html
+
+http://www.cburch.com/logisim/
+
+http://www.play-hookey.com/digital/
+
+Printing characters on the screen : 
+
+http://nand2tetris-questions-and-answers-forum.32033.n3.nabble.com/Faster-Character-Drawing-td4031995.html
+
+	
